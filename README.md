@@ -1,2 +1,2 @@
 # -r-dailyprogrammer
-# dedicated to solved tasks from the dailyprogrammer subreddit.
+ dedicated to solved tasks from the dailyprogrammer subreddit.
