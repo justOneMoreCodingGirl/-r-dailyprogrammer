@@ -33,3 +33,29 @@ public class Lahko15 {
     }
     
 }
+/*
+    public static void main(String[] args) {
+    
+    Scanner s=new Scanner(System.in);
+   
+    
+    
+    String izraz=s.next();        
+    char slova []=izraz.toCharArray();
+    String iz=s.next(); 
+    char izbaciti []=iz.toCharArray();
+    
+    for(int i=0;i<slova.length;i++){
+        for(int j=0;j<izbaciti.length;j++){
+        if(slova[i]==izbaciti[j])
+        slova[i]=' ';
+        }
+    }
+        for(int l=0;l<slova.length;l++){
+            if(slova[l]!=' ')            
+        System.out.print(slova[l]);}
+    
+    
+    
+    }}
+*/
