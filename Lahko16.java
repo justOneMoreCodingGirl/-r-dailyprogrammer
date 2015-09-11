@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lahko15;
+package lahko16;
 import java.util.Scanner;
 /**
  *
  * @author aa
  */
-public class Lahko15 {
+public class Lahko16{
 
     /**
      * @param args the command line arguments
